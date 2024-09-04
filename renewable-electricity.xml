@@ -1,0 +1,1808 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	Source: https://en.wikipedia.org/wiki/List_of_countries_by_renewable_electricity_production 
+	Downloaded: June 26, 2024
+	Updated: July 24, 2024 [Corections to Comoros, Saint Pierre and Miquelo, Sint Maarten and Tokelau]
+-->
+<renewable-electricity year="2021" units="GWh">
+  <country name="Afghanistan">
+    <totals all-sources="1185" all-renewables="927" renewable-percent="78.2" />
+    <source type="hydro" amount="850" percent-of-all="71.7" percent-of-renewables="91.7" />
+    <source type="wind" amount="0" percent-of-all="0.01" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="78" percent-of-all="6.6" percent-of-renewables="8.4" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Albania">
+    <totals all-sources="8963" all-renewables="8963" renewable-percent="100" />
+    <source type="hydro" amount="8918" percent-of-all="99.5" percent-of-renewables="99.5" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="45" percent-of-all="0.5" percent-of-renewables="0.5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Algeria">
+    <totals all-sources="86667" all-renewables="780" renewable-percent="0.9" />
+    <source type="hydro" amount="9" percent-of-all="0.01" percent-of-renewables="1.2" />
+    <source type="wind" amount="9" percent-of-all="0.01" percent-of-renewables="1.2" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="780" percent-of-all="0.9" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="American Samoa">
+    <totals all-sources="179" all-renewables="7" renewable-percent="3.9" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="7" percent-of-all="3.9" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Andorra">
+    <totals all-sources="104" all-renewables="97" renewable-percent="93.3" />
+    <source type="hydro" amount="79" percent-of-all="75.9" percent-of-renewables="81.4" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="1" percent-of-all="1.2" percent-of-renewables="1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Angola">
+    <totals all-sources="19001" all-renewables="14004" renewable-percent="73.7" />
+    <source type="hydro" amount="13795" percent-of-all="72.6" percent-of-renewables="98.5" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="209" percent-of-all="1.1" percent-of-renewables="1.5" />
+    <source type="solar" amount="2" percent-of-all="0.01" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Anguilla">
+    <totals all-sources="120" all-renewables="3" renewable-percent="2.5" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="3" percent-of-all="2.5" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Antigua and Barbuda">
+    <totals all-sources="351" all-renewables="20" renewable-percent="5.7" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="20" percent-of-all="5.7" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Argentina">
+    <totals all-sources="143809" all-renewables="39116" renewable-percent="27.2" />
+    <source type="hydro" amount="20133" percent-of-all="14" percent-of-renewables="51.5" />
+    <source type="wind" amount="12943" percent-of-all="9" percent-of-renewables="33.1" />
+    <source type="biomass" amount="3883" percent-of-all="2.7" percent-of-renewables="9.9" />
+    <source type="solar" amount="2157" percent-of-all="1.5" percent-of-renewables="5.5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Armenia">
+    <totals all-sources="7761" all-renewables="2367" renewable-percent="30.5" />
+    <source type="hydro" amount="2204" percent-of-all="28.4" percent-of-renewables="93.1" />
+    <source type="wind" amount="2" percent-of-all="0.02" percent-of-renewables="0.1" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="163" percent-of-all="2.1" percent-of-renewables="6.9" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Aruba">
+    <totals all-sources="1061" all-renewables="157" renewable-percent="14.8" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="133" percent-of-all="12.5" percent-of-renewables="84.7" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="24" percent-of-all="2.3" percent-of-renewables="15.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Australia">
+    <totals all-sources="265165" all-renewables="70799" renewable-percent="26.7" />
+    <source type="hydro" amount="15114" percent-of-all="5.7" percent-of-renewables="21.3" />
+    <source type="wind" amount="24395" percent-of-all="9.2" percent-of-renewables="34.5" />
+    <source type="biomass" amount="3447" percent-of-all="1.3" percent-of-renewables="4.9" />
+    <source type="solar" amount="27577" percent-of-all="10.4" percent-of-renewables="39" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Austria">
+    <totals all-sources="70766" all-renewables="56542" renewable-percent="79.9" />
+    <source type="hydro" amount="42530" percent-of-all="60.1" percent-of-renewables="75.2" />
+    <source type="wind" amount="6723" percent-of-all="9.5" percent-of-renewables="11.9" />
+    <source type="biomass" amount="4104" percent-of-all="5.8" percent-of-renewables="7.3" />
+    <source type="solar" amount="2760" percent-of-all="3.9" percent-of-renewables="4.9" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Azerbaijan">
+    <totals all-sources="27879" all-renewables="1617" renewable-percent="5.8" />
+    <source type="hydro" amount="1282" percent-of-all="4.6" percent-of-renewables="79.3" />
+    <source type="wind" amount="84" percent-of-all="0.3" percent-of-renewables="5.2" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="56" percent-of-all="0.2" percent-of-renewables="3.5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Bahamas">
+    <totals all-sources="1600" all-renewables="8" renewable-percent="0.5" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="1" percent-of-all="0.04" percent-of-renewables="12.5" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="6" percent-of-all="0.4" percent-of-renewables="75" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Bahrain">
+    <totals all-sources="32500" all-renewables="13" renewable-percent="0" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="10" percent-of-all="0.03" percent-of-renewables="76.9" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Bangladesh">
+    <totals all-sources="89750" all-renewables="1436" renewable-percent="1.6" />
+    <source type="hydro" amount="718" percent-of-all="0.8" percent-of-renewables="50" />
+    <source type="wind" amount="9" percent-of-all="0.01" percent-of-renewables="0.6" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="718" percent-of-all="0.8" percent-of-renewables="50" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Barbados">
+    <totals all-sources="1205" all-renewables="88" renewable-percent="7.3" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="88" percent-of-all="7.3" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Belarus">
+    <totals all-sources="38176" all-renewables="1298" renewable-percent="3.4" />
+    <source type="hydro" amount="382" percent-of-all="1" percent-of-renewables="29.4" />
+    <source type="wind" amount="153" percent-of-all="0.4" percent-of-renewables="11.8" />
+    <source type="biomass" amount="573" percent-of-all="1.5" percent-of-renewables="44.1" />
+    <source type="solar" amount="191" percent-of-all="0.5" percent-of-renewables="14.7" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Belgium">
+    <totals all-sources="100664" all-renewables="23656" renewable-percent="23.5" />
+    <source type="hydro" amount="1309" percent-of-all="1.3" percent-of-renewables="5.5" />
+    <source type="wind" amount="11979" percent-of-all="11.9" percent-of-renewables="50.6" />
+    <source type="biomass" amount="3725" percent-of-all="3.7" percent-of-renewables="15.7" />
+    <source type="solar" amount="5637" percent-of-all="5.6" percent-of-renewables="23.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Belize">
+    <totals all-sources="470" all-renewables="437" renewable-percent="93" />
+    <source type="hydro" amount="157" percent-of-all="33.4" percent-of-renewables="35.9" />
+    <source type="wind" amount="0" percent-of-all="0.01" percent-of-renewables="0" />
+    <source type="biomass" amount="270" percent-of-all="57.4" percent-of-renewables="61.8" />
+    <source type="solar" amount="10" percent-of-all="2.1" percent-of-renewables="2.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Benin">
+    <totals all-sources="1500" all-renewables="3" renewable-percent="0.2" />
+    <source type="hydro" amount="0" percent-of-all="0.01" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="3" percent-of-all="0.2" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Bhutan">
+    <totals all-sources="10823" all-renewables="10823" renewable-percent="100" />
+    <source type="hydro" amount="10823" percent-of-all="100" percent-of-renewables="100" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Bolivia">
+    <totals all-sources="10867" all-renewables="4162" renewable-percent="38.3" />
+    <source type="hydro" amount="3238" percent-of-all="29.8" percent-of-renewables="77.8" />
+    <source type="wind" amount="120" percent-of-all="1.1" percent-of-renewables="2.9" />
+    <source type="biomass" amount="456" percent-of-all="4.2" percent-of-renewables="11" />
+    <source type="solar" amount="348" percent-of-all="3.2" percent-of-renewables="8.4" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Bosnia and Herzegovina">
+    <totals all-sources="18555" all-renewables="7292" renewable-percent="39.3" />
+    <source type="hydro" amount="6810" percent-of-all="36.7" percent-of-renewables="93.4" />
+    <source type="wind" amount="390" percent-of-all="2.1" percent-of-renewables="5.3" />
+    <source type="biomass" amount="37" percent-of-all="0.2" percent-of-renewables="0.5" />
+    <source type="solar" amount="74" percent-of-all="0.4" percent-of-renewables="1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Botswana">
+    <totals all-sources="3000" all-renewables="6" renewable-percent="0.2" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="6" percent-of-all="0.2" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Brazil">
+    <totals all-sources="655901" all-renewables="507667" renewable-percent="77.4" />
+    <source type="hydro" amount="362713" percent-of-all="55.3" percent-of-renewables="71.4" />
+    <source type="wind" amount="72149" percent-of-all="11" percent-of-renewables="14.2" />
+    <source type="biomass" amount="55752" percent-of-all="8.5" percent-of-renewables="11" />
+    <source type="solar" amount="17053" percent-of-all="2.6" percent-of-renewables="3.4" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="British Virgin Islands">
+    <totals all-sources="174" all-renewables="4" renewable-percent="2.3" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="2" percent-of-all="1.2" percent-of-renewables="50" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="2" percent-of-all="1.1" percent-of-renewables="50" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Brunei">
+    <totals all-sources="3667" all-renewables="1.1" renewable-percent="0" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="1" percent-of-all="0.03" percent-of-renewables="90.9" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Bulgaria">
+    <totals all-sources="47550" all-renewables="10556" renewable-percent="22.2" />
+    <source type="hydro" amount="5088" percent-of-all="10.7" percent-of-renewables="48.2" />
+    <source type="wind" amount="1427" percent-of-all="3" percent-of-renewables="13.5" />
+    <source type="biomass" amount="2568" percent-of-all="5.4" percent-of-renewables="24.3" />
+    <source type="solar" amount="1474" percent-of-all="3.1" percent-of-renewables="14" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Burkina Faso">
+    <totals all-sources="854" all-renewables="234" renewable-percent="27.4" />
+    <source type="hydro" amount="135" percent-of-all="15.8" percent-of-renewables="57.7" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="2" percent-of-all="0.2" percent-of-renewables="0.9" />
+    <source type="solar" amount="97" percent-of-all="11.4" percent-of-renewables="41.5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Burundi">
+    <totals all-sources="454" all-renewables="278" renewable-percent="61.2" />
+    <source type="hydro" amount="271" percent-of-all="59.6" percent-of-renewables="97.5" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="5" percent-of-all="1.2" percent-of-renewables="1.8" />
+    <source type="solar" amount="2" percent-of-all="0.5" percent-of-renewables="0.7" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Cabo Verde">
+    <totals all-sources="443" all-renewables="81" renewable-percent="18.3" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="74" percent-of-all="16.7" percent-of-renewables="91.4" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="7" percent-of-all="1.6" percent-of-renewables="8.6" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Cambodia">
+    <totals all-sources="9774" all-renewables="5757" renewable-percent="58.9" />
+    <source type="hydro" amount="5043" percent-of-all="51.6" percent-of-renewables="87.6" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="78" percent-of-all="0.8" percent-of-renewables="1.4" />
+    <source type="solar" amount="635" percent-of-all="6.5" percent-of-renewables="11" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Cameroon">
+    <totals all-sources="6444" all-renewables="5110" renewable-percent="79.3" />
+    <source type="hydro" amount="5091" percent-of-all="79" percent-of-renewables="99.6" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="19" percent-of-all="0.3" percent-of-renewables="0.4" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Canada">
+    <totals all-sources="642653" all-renewables="433791" renewable-percent="67.5" />
+    <source type="hydro" amount="382379" percent-of-all="59.5" percent-of-renewables="88.1" />
+    <source type="wind" amount="34703" percent-of-all="5.4" percent-of-renewables="8" />
+    <source type="biomass" amount="9640" percent-of-all="1.5" percent-of-renewables="2.2" />
+    <source type="solar" amount="5784" percent-of-all="0.9" percent-of-renewables="1.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Caribbean Netherlands">
+    <totals all-sources="158" all-renewables="38" renewable-percent="24.1" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="29" percent-of-all="18.4" percent-of-renewables="76.3" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="9" percent-of-all="5.7" percent-of-renewables="23.7" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Cayman Islands">
+    <totals all-sources="759" all-renewables="22" renewable-percent="2.9" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="22" percent-of-all="2.9" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Central African Republic">
+    <totals all-sources="147" all-renewables="142" renewable-percent="96.6" />
+    <source type="hydro" amount="141" percent-of-all="96.2" percent-of-renewables="99.3" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="0" percent-of-all="0.3" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Chad">
+    <totals all-sources="339" all-renewables="19" renewable-percent="5.6" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="9" percent-of-all="2.6" percent-of-renewables="47.4" />
+    <source type="biomass" amount="9" percent-of-all="2.6" percent-of-renewables="47.4" />
+    <source type="solar" amount="1" percent-of-all="0.4" percent-of-renewables="5.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Chile">
+    <totals all-sources="86546" all-renewables="42321" renewable-percent="48.9" />
+    <source type="hydro" amount="18088" percent-of-all="20.9" percent-of-renewables="42.7" />
+    <source type="wind" amount="7616" percent-of-all="8.8" percent-of-renewables="18" />
+    <source type="biomass" amount="5625" percent-of-all="6.5" percent-of-renewables="13.3" />
+    <source type="solar" amount="10645" percent-of-all="12.3" percent-of-renewables="25.2" />
+    <source type="geothermal" amount="346" percent-of-all="0.4" percent-of-renewables="0.8" />
+  </country>
+  <country name="China">
+    <totals all-sources="8547336" all-renewables="2444538" renewable-percent="28.6" />
+    <source type="hydro" amount="1341932" percent-of-all="15.7" percent-of-renewables="54.9" />
+    <source type="wind" amount="658145" percent-of-all="7.7" percent-of-renewables="26.9" />
+    <source type="biomass" amount="76926" percent-of-all="0.9" percent-of-renewables="3.1" />
+    <source type="solar" amount="324799" percent-of-all="3.8" percent-of-renewables="13.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Colombia">
+    <totals all-sources="83747" all-renewables="63145" renewable-percent="75.4" />
+    <source type="hydro" amount="60717" percent-of-all="72.5" percent-of-renewables="96.2" />
+    <source type="wind" amount="84" percent-of-all="0.1" percent-of-renewables="0.1" />
+    <source type="biomass" amount="1842" percent-of-all="2.2" percent-of-renewables="2.9" />
+    <source type="solar" amount="502" percent-of-all="0.6" percent-of-renewables="0.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Comoros">
+    <totals all-sources="0" all-renewables="0" renewable-percent="0" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Congo">
+    <totals all-sources="2649" all-renewables="1078" renewable-percent="40.7" />
+    <source type="hydro" amount="1046" percent-of-all="39.5" percent-of-renewables="97" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="32" percent-of-all="1.2" percent-of-renewables="3" />
+    <source type="solar" amount="1" percent-of-all="0.03" percent-of-renewables="0.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Cook Islands">
+    <totals all-sources="33" all-renewables="7" renewable-percent="21.2" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="7" percent-of-all="21.1" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Costa Rica">
+    <totals all-sources="12656" all-renewables="12656" renewable-percent="100" />
+    <source type="hydro" amount="9290" percent-of-all="73.4" percent-of-renewables="73.4" />
+    <source type="wind" amount="1569" percent-of-all="12.4" percent-of-renewables="12.4" />
+    <source type="biomass" amount="89" percent-of-all="0.7" percent-of-renewables="0.7" />
+    <source type="solar" amount="101" percent-of-all="0.8" percent-of-renewables="0.8" />
+    <source type="geothermal" amount="1607" percent-of-all="12.7" percent-of-renewables="12.7" />
+  </country>
+  <country name="Croatia">
+    <totals all-sources="15206" all-renewables="10629" renewable-percent="69.9" />
+    <source type="hydro" amount="7223" percent-of-all="47.5" percent-of-renewables="68" />
+    <source type="wind" amount="2068" percent-of-all="13.6" percent-of-renewables="19.5" />
+    <source type="biomass" amount="1095" percent-of-all="7.2" percent-of-renewables="10.3" />
+    <source type="solar" amount="152" percent-of-all="1" percent-of-renewables="1.4" />
+    <source type="geothermal" amount="91" percent-of-all="0.6" percent-of-renewables="0.9" />
+  </country>
+  <country name="Cuba">
+    <totals all-sources="18157" all-renewables="926" renewable-percent="5.1" />
+    <source type="hydro" amount="127" percent-of-all="0.7" percent-of-renewables="13.7" />
+    <source type="wind" amount="36" percent-of-all="0.2" percent-of-renewables="3.9" />
+    <source type="biomass" amount="545" percent-of-all="3" percent-of-renewables="58.9" />
+    <source type="solar" amount="218" percent-of-all="1.2" percent-of-renewables="23.5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Curaçao">
+    <totals all-sources="795" all-renewables="155" renewable-percent="19.5" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="141" percent-of-all="17.7" percent-of-renewables="91" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="14" percent-of-all="1.8" percent-of-renewables="9" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Cyprus">
+    <totals all-sources="5132" all-renewables="775" renewable-percent="15.1" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="246" percent-of-all="4.8" percent-of-renewables="31.7" />
+    <source type="biomass" amount="62" percent-of-all="1.2" percent-of-renewables="8" />
+    <source type="solar" amount="467" percent-of-all="9.1" percent-of-renewables="60.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Czechia">
+    <totals all-sources="85157" all-renewables="11922" renewable-percent="14" />
+    <source type="hydro" amount="3662" percent-of-all="4.3" percent-of-renewables="30.7" />
+    <source type="wind" amount="596" percent-of-all="0.7" percent-of-renewables="5" />
+    <source type="biomass" amount="5280" percent-of-all="6.2" percent-of-renewables="44.3" />
+    <source type="solar" amount="2299" percent-of-all="2.7" percent-of-renewables="19.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Denmark">
+    <totals all-sources="33033" all-renewables="26096" renewable-percent="79" />
+    <source type="hydro" amount="17" percent-of-all="0.05" percent-of-renewables="0.1" />
+    <source type="wind" amount="16054" percent-of-all="48.6" percent-of-renewables="61.5" />
+    <source type="biomass" amount="7730" percent-of-all="23.4" percent-of-renewables="29.6" />
+    <source type="solar" amount="1321" percent-of-all="4" percent-of-renewables="5.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Djibouti">
+    <totals all-sources="198" all-renewables="70" renewable-percent="35.4" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="69" percent-of-all="35.1" percent-of-renewables="98.6" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="1" percent-of-all="0.3" percent-of-renewables="1.4" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Dominica">
+    <totals all-sources="103" all-renewables="21" renewable-percent="20.4" />
+    <source type="hydro" amount="20" percent-of-all="19.5" percent-of-renewables="95.2" />
+    <source type="wind" amount="1" percent-of-all="0.6" percent-of-renewables="4.8" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="0" percent-of-all="0.2" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Dominican Republic">
+    <totals all-sources="23306" all-renewables="3962" renewable-percent="17" />
+    <source type="hydro" amount="1492" percent-of-all="6.4" percent-of-renewables="37.7" />
+    <source type="wind" amount="1235" percent-of-all="5.3" percent-of-renewables="31.2" />
+    <source type="biomass" amount="350" percent-of-all="1.5" percent-of-renewables="8.8" />
+    <source type="solar" amount="886" percent-of-all="3.8" percent-of-renewables="22.4" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="DR Congo">
+    <totals all-sources="12041" all-renewables="11921" renewable-percent="99" />
+    <source type="hydro" amount="11897" percent-of-all="98.8" percent-of-renewables="99.8" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="12" percent-of-all="0.1" percent-of-renewables="0.1" />
+    <source type="solar" amount="24" percent-of-all="0.2" percent-of-renewables="0.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="East Timor">
+    <totals all-sources="500" all-renewables="2" renewable-percent="0.4" />
+    <source type="hydro" amount="2" percent-of-all="0.3" percent-of-renewables="100" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="1" percent-of-all="0.1" percent-of-renewables="50" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Ecuador">
+    <totals all-sources="32194" all-renewables="26077" renewable-percent="81" />
+    <source type="hydro" amount="25562" percent-of-all="79.4" percent-of-renewables="98" />
+    <source type="wind" amount="64" percent-of-all="0.2" percent-of-renewables="0.2" />
+    <source type="biomass" amount="419" percent-of-all="1.3" percent-of-renewables="1.6" />
+    <source type="solar" amount="32" percent-of-all="0.1" percent-of-renewables="0.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Egypt">
+    <totals all-sources="205593" all-renewables="25288" renewable-percent="12.3" />
+    <source type="hydro" amount="14803" percent-of-all="7.2" percent-of-renewables="58.5" />
+    <source type="wind" amount="5345" percent-of-all="2.6" percent-of-renewables="21.1" />
+    <source type="biomass" amount="206" percent-of-all="0.1" percent-of-renewables="0.8" />
+    <source type="solar" amount="4934" percent-of-all="2.4" percent-of-renewables="19.5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="El Salvador">
+    <totals all-sources="7050" all-renewables="6063" renewable-percent="86" />
+    <source type="hydro" amount="1826" percent-of-all="25.9" percent-of-renewables="30.1" />
+    <source type="wind" amount="134" percent-of-all="1.9" percent-of-renewables="2.2" />
+    <source type="biomass" amount="902" percent-of-all="12.8" percent-of-renewables="14.9" />
+    <source type="solar" amount="1643" percent-of-all="23.3" percent-of-renewables="27.1" />
+    <source type="geothermal" amount="1558" percent-of-all="22.1" percent-of-renewables="25.7" />
+  </country>
+  <country name="Equatorial Guinea">
+    <totals all-sources="1058" all-renewables="127" renewable-percent="12" />
+    <source type="hydro" amount="126" percent-of-all="11.9" percent-of-renewables="99.2" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="0" percent-of-all="0.02" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Eritrea">
+    <totals all-sources="440" all-renewables="22" renewable-percent="5" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="1" percent-of-all="0.3" percent-of-renewables="4.5" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="21" percent-of-all="4.7" percent-of-renewables="95.5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Estonia">
+    <totals all-sources="7198" all-renewables="2879" renewable-percent="40" />
+    <source type="hydro" amount="22" percent-of-all="0.3" percent-of-renewables="0.8" />
+    <source type="wind" amount="734" percent-of-all="10.2" percent-of-renewables="25.5" />
+    <source type="biomass" amount="1706" percent-of-all="23.7" percent-of-renewables="59.3" />
+    <source type="solar" amount="353" percent-of-all="4.9" percent-of-renewables="12.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Eswatini">
+    <totals all-sources="461" all-renewables="460" renewable-percent="99.8" />
+    <source type="hydro" amount="259" percent-of-all="56.1" percent-of-renewables="56.3" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="200" percent-of-all="43.4" percent-of-renewables="43.5" />
+    <source type="solar" amount="1" percent-of-all="0.3" percent-of-renewables="0.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Ethiopia">
+    <totals all-sources="15817" all-renewables="15817" renewable-percent="100" />
+    <source type="hydro" amount="14947" percent-of-all="94.5" percent-of-renewables="94.5" />
+    <source type="wind" amount="822" percent-of-all="5.2" percent-of-renewables="5.2" />
+    <source type="biomass" amount="16" percent-of-all="0.1" percent-of-renewables="0.1" />
+    <source type="solar" amount="32" percent-of-all="0.2" percent-of-renewables="0.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Falkland Islands">
+    <totals all-sources="17" all-renewables="4" renewable-percent="23.5" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="4" percent-of-all="23.2" percent-of-renewables="100" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="0" percent-of-all="0.7" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Faroe Islands">
+    <totals all-sources="423" all-renewables="161" renewable-percent="38.1" />
+    <source type="hydro" amount="100" percent-of-all="23.7" percent-of-renewables="62.1" />
+    <source type="wind" amount="54" percent-of-all="12.8" percent-of-renewables="33.5" />
+    <source type="biomass" amount="7" percent-of-all="1.6" percent-of-renewables="4.3" />
+    <source type="solar" amount="0" percent-of-all="0.04" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Fiji">
+    <totals all-sources="1093" all-renewables="657" renewable-percent="60.1" />
+    <source type="hydro" amount="548" percent-of-all="50.1" percent-of-renewables="83.4" />
+    <source type="wind" amount="0" percent-of-all="0.03" percent-of-renewables="0" />
+    <source type="biomass" amount="96" percent-of-all="8.8" percent-of-renewables="14.6" />
+    <source type="solar" amount="12" percent-of-all="1.1" percent-of-renewables="1.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Finland">
+    <totals all-sources="72163" all-renewables="38174" renewable-percent="52.9" />
+    <source type="hydro" amount="15804" percent-of-all="21.9" percent-of-renewables="41.4" />
+    <source type="wind" amount="8515" percent-of-all="11.8" percent-of-renewables="22.3" />
+    <source type="biomass" amount="12989" percent-of-all="18" percent-of-renewables="34" />
+    <source type="solar" amount="289" percent-of-all="0.4" percent-of-renewables="0.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="France">
+    <totals all-sources="555737" all-renewables="126708" renewable-percent="22.8" />
+    <source type="hydro" amount="63910" percent-of-all="11.5" percent-of-renewables="50.4" />
+    <source type="wind" amount="36679" percent-of-all="6.6" percent-of-renewables="28.9" />
+    <source type="biomass" amount="7225" percent-of-all="1.3" percent-of-renewables="5.7" />
+    <source type="solar" amount="15561" percent-of-all="2.8" percent-of-renewables="12.3" />
+    <source type="geothermal" amount="111" percent-of-all="0.02" percent-of-renewables="0.1" />
+  </country>
+  <country name="French Guiana">
+    <totals all-sources="996" all-renewables="688" renewable-percent="69.1" />
+    <source type="hydro" amount="586" percent-of-all="58.8" percent-of-renewables="85.2" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="46" percent-of-all="4.6" percent-of-renewables="6.7" />
+    <source type="solar" amount="57" percent-of-all="5.7" percent-of-renewables="8.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="French Polynesia">
+    <totals all-sources="624" all-renewables="148" renewable-percent="23.7" />
+    <source type="hydro" amount="144" percent-of-all="23.1" percent-of-renewables="97.3" />
+    <source type="wind" amount="0" percent-of-all="0.01" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="4" percent-of-all="0.6" percent-of-renewables="2.7" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Gabon">
+    <totals all-sources="1822" all-renewables="984" renewable-percent="54" />
+    <source type="hydro" amount="982" percent-of-all="53.9" percent-of-renewables="99.8" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="2" percent-of-all="0.1" percent-of-renewables="0.2" />
+    <source type="solar" amount="1" percent-of-all="0.04" percent-of-renewables="0.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Gambia">
+    <totals all-sources="375" all-renewables="6" renewable-percent="1.6" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="2" percent-of-all="0.5" percent-of-renewables="33.3" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="4" percent-of-all="1.1" percent-of-renewables="66.7" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Georgia">
+    <totals all-sources="12671" all-renewables="10289" renewable-percent="81.2" />
+    <source type="hydro" amount="10187" percent-of-all="80.4" percent-of-renewables="99" />
+    <source type="wind" amount="89" percent-of-all="0.7" percent-of-renewables="0.9" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="25" percent-of-all="0.2" percent-of-renewables="0.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Germany">
+    <totals all-sources="588815" all-renewables="236115" renewable-percent="40.1" />
+    <source type="hydro" amount="24730" percent-of-all="4.2" percent-of-renewables="10.5" />
+    <source type="wind" amount="114819" percent-of-all="19.5" percent-of-renewables="48.6" />
+    <source type="biomass" amount="41217" percent-of-all="7" percent-of-renewables="17.5" />
+    <source type="solar" amount="49460" percent-of-all="8.4" percent-of-renewables="20.9" />
+    <source type="geothermal" amount="236" percent-of-all="0.04" percent-of-renewables="0.1" />
+  </country>
+  <country name="Ghana">
+    <totals all-sources="22098" all-renewables="7690" renewable-percent="34.8" />
+    <source type="hydro" amount="7513" percent-of-all="34" percent-of-renewables="97.7" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="22" percent-of-all="0.1" percent-of-renewables="0.3" />
+    <source type="solar" amount="155" percent-of-all="0.7" percent-of-renewables="2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Greece">
+    <totals all-sources="54667" all-renewables="22195" renewable-percent="40.6" />
+    <source type="hydro" amount="5959" percent-of-all="10.9" percent-of-renewables="26.8" />
+    <source type="wind" amount="10496" percent-of-all="19.2" percent-of-renewables="47.3" />
+    <source type="biomass" amount="492" percent-of-all="0.9" percent-of-renewables="2.2" />
+    <source type="solar" amount="5248" percent-of-all="9.6" percent-of-renewables="23.6" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Greenland">
+    <totals all-sources="581" all-renewables="447" renewable-percent="76.9" />
+    <source type="hydro" amount="433" percent-of-all="74.5" percent-of-renewables="96.9" />
+    <source type="wind" amount="0" percent-of-all="0.01" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="1" percent-of-all="0.1" percent-of-renewables="0.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Grenada">
+    <totals all-sources="250" all-renewables="5" renewable-percent="2" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0.1" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="5" percent-of-all="1.9" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Guadeloupe">
+    <totals all-sources="1666" all-renewables="563" renewable-percent="33.8" />
+    <source type="hydro" amount="12" percent-of-all="0.7" percent-of-renewables="2.1" />
+    <source type="wind" amount="107" percent-of-all="6.4" percent-of-renewables="19" />
+    <source type="biomass" amount="248" percent-of-all="14.9" percent-of-renewables="44" />
+    <source type="solar" amount="113" percent-of-all="6.8" percent-of-renewables="20.1" />
+    <source type="geothermal" amount="83" percent-of-all="5" percent-of-renewables="14.7" />
+  </country>
+  <country name="Guam">
+    <totals all-sources="1750" all-renewables="84" renewable-percent="4.8" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="1" percent-of-all="0.03" percent-of-renewables="1.2" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="84" percent-of-all="4.8" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Guatemala">
+    <totals all-sources="12814" all-renewables="9393" renewable-percent="73.3" />
+    <source type="hydro" amount="5959" percent-of-all="46.5" percent-of-renewables="63.4" />
+    <source type="wind" amount="320" percent-of-all="2.5" percent-of-renewables="3.4" />
+    <source type="biomass" amount="2601" percent-of-all="20.3" percent-of-renewables="27.7" />
+    <source type="solar" amount="243" percent-of-all="1.9" percent-of-renewables="2.6" />
+    <source type="geothermal" amount="269" percent-of-all="2.1" percent-of-renewables="2.9" />
+  </country>
+  <country name="Guinea">
+    <totals all-sources="3027" all-renewables="2667" renewable-percent="88.1" />
+    <source type="hydro" amount="2646" percent-of-all="87.4" percent-of-renewables="99.2" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="21" percent-of-all="0.7" percent-of-renewables="0.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Guinea-Bissau">
+    <totals all-sources="28" all-renewables="2" renewable-percent="7.1" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="2" percent-of-all="7.1" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Guyana">
+    <totals all-sources="1211" all-renewables="86" renewable-percent="7.1" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0.03" percent-of-renewables="0" />
+    <source type="biomass" amount="73" percent-of-all="6" percent-of-renewables="84.9" />
+    <source type="solar" amount="13" percent-of-all="1.1" percent-of-renewables="15.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Haiti">
+    <totals all-sources="1126" all-renewables="205" renewable-percent="18.2" />
+    <source type="hydro" amount="200" percent-of-all="17.8" percent-of-renewables="97.6" />
+    <source type="wind" amount="0" percent-of-all="0.01" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="5" percent-of-all="0.4" percent-of-renewables="2.4" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Honduras">
+    <totals all-sources="11443" all-renewables="7186" renewable-percent="62.8" />
+    <source type="hydro" amount="3776" percent-of-all="33" percent-of-renewables="52.5" />
+    <source type="wind" amount="778" percent-of-all="6.8" percent-of-renewables="10.8" />
+    <source type="biomass" amount="1202" percent-of-all="10.5" percent-of-renewables="16.7" />
+    <source type="solar" amount="1087" percent-of-all="9.5" percent-of-renewables="15.1" />
+    <source type="geothermal" amount="343" percent-of-all="3" percent-of-renewables="4.8" />
+  </country>
+  <country name="Hong Kong">
+    <totals all-sources="38875" all-renewables="311" renewable-percent="0.8" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="194" percent-of-all="0.5" percent-of-renewables="62.4" />
+    <source type="solar" amount="117" percent-of-all="0.3" percent-of-renewables="37.6" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Hungary">
+    <totals all-sources="36204" all-renewables="6915" renewable-percent="19.1" />
+    <source type="hydro" amount="217" percent-of-all="0.6" percent-of-renewables="3.1" />
+    <source type="wind" amount="652" percent-of-all="1.8" percent-of-renewables="9.4" />
+    <source type="biomass" amount="2064" percent-of-all="5.7" percent-of-renewables="29.8" />
+    <source type="solar" amount="3801" percent-of-all="10.5" percent-of-renewables="55" />
+    <source type="geothermal" amount="11" percent-of-all="0.03" percent-of-renewables="0.2" />
+  </country>
+  <country name="Iceland">
+    <totals all-sources="19617" all-renewables="19617" renewable-percent="100" />
+    <source type="hydro" amount="13810" percent-of-all="70.4" percent-of-renewables="70.4" />
+    <source type="wind" amount="6" percent-of-all="0.03" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="6" percent-of-all="0.03" percent-of-renewables="0" />
+    <source type="geothermal" amount="5807" percent-of-all="29.6" percent-of-renewables="29.6" />
+  </country>
+  <country name="India">
+    <totals all-sources="1630589" all-renewables="313073" renewable-percent="19.2" />
+    <source type="hydro" amount="161428" percent-of-all="9.9" percent-of-renewables="51.6" />
+    <source type="wind" amount="61962" percent-of-all="3.8" percent-of-renewables="19.8" />
+    <source type="biomass" amount="21198" percent-of-all="1.3" percent-of-renewables="6.8" />
+    <source type="solar" amount="65224" percent-of-all="4" percent-of-renewables="20.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Indonesia">
+    <totals all-sources="308105" all-renewables="55767" renewable-percent="18.1" />
+    <source type="hydro" amount="24648" percent-of-all="8" percent-of-renewables="44.2" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="15097" percent-of-all="4.9" percent-of-renewables="27.1" />
+    <source type="solar" amount="308" percent-of-all="0.1" percent-of-renewables="0.6" />
+    <source type="geothermal" amount="16021" percent-of-all="5.2" percent-of-renewables="28.7" />
+  </country>
+  <country name="Iran">
+    <totals all-sources="359143" all-renewables="15084" renewable-percent="4.2" />
+    <source type="hydro" amount="14007" percent-of-all="3.9" percent-of-renewables="92.9" />
+    <source type="wind" amount="718" percent-of-all="0.2" percent-of-renewables="4.8" />
+    <source type="biomass" amount="36" percent-of-all="0.01" percent-of-renewables="0.2" />
+    <source type="solar" amount="718" percent-of-all="0.2" percent-of-renewables="4.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Iraq">
+    <totals all-sources="85679" all-renewables="4541" renewable-percent="5.3" />
+    <source type="hydro" amount="4113" percent-of-all="4.8" percent-of-renewables="90.6" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="343" percent-of-all="0.4" percent-of-renewables="7.6" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Ireland">
+    <totals all-sources="31903" all-renewables="11900" renewable-percent="37.3" />
+    <source type="hydro" amount="1021" percent-of-all="3.2" percent-of-renewables="8.6" />
+    <source type="wind" amount="9794" percent-of-all="30.7" percent-of-renewables="82.3" />
+    <source type="biomass" amount="638" percent-of-all="2" percent-of-renewables="5.4" />
+    <source type="solar" amount="96" percent-of-all="0.3" percent-of-renewables="0.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Israel">
+    <totals all-sources="74092" all-renewables="5631" renewable-percent="7.6" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="148" percent-of-all="0.2" percent-of-renewables="2.6" />
+    <source type="biomass" amount="74" percent-of-all="0.1" percent-of-renewables="1.3" />
+    <source type="solar" amount="5335" percent-of-all="7.2" percent-of-renewables="94.7" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Italy">
+    <totals all-sources="288883" all-renewables="118442" renewable-percent="41" />
+    <source type="hydro" amount="47377" percent-of-all="16.4" percent-of-renewables="40" />
+    <source type="wind" amount="20800" percent-of-all="7.2" percent-of-renewables="17.6" />
+    <source type="biomass" amount="16755" percent-of-all="5.8" percent-of-renewables="14.1" />
+    <source type="solar" amount="25133" percent-of-all="8.7" percent-of-renewables="21.2" />
+    <source type="geothermal" amount="5778" percent-of-all="2" percent-of-renewables="4.9" />
+  </country>
+  <country name="Ivory Coast">
+    <totals all-sources="14080" all-renewables="2633" renewable-percent="18.7" />
+    <source type="hydro" amount="2633" percent-of-all="18.7" percent-of-renewables="100" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="6" percent-of-all="0.04" percent-of-renewables="0.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Jamaica">
+    <totals all-sources="4305" all-renewables="551" renewable-percent="12.8" />
+    <source type="hydro" amount="138" percent-of-all="3.2" percent-of-renewables="25" />
+    <source type="wind" amount="263" percent-of-all="6.1" percent-of-renewables="47.7" />
+    <source type="biomass" amount="17" percent-of-all="0.4" percent-of-renewables="3.1" />
+    <source type="solar" amount="133" percent-of-all="3.1" percent-of-renewables="24.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Japan">
+    <totals all-sources="1049900" all-renewables="221529" renewable-percent="21.1" />
+    <source type="hydro" amount="89242" percent-of-all="8.5" percent-of-renewables="40.3" />
+    <source type="wind" amount="9449" percent-of-all="0.9" percent-of-renewables="4.3" />
+    <source type="biomass" amount="32547" percent-of-all="3.1" percent-of-renewables="14.7" />
+    <source type="solar" amount="86092" percent-of-all="8.2" percent-of-renewables="38.9" />
+    <source type="geothermal" amount="3150" percent-of-all="0.3" percent-of-renewables="1.4" />
+  </country>
+  <country name="Jordan">
+    <totals all-sources="22004" all-renewables="5325" renewable-percent="24.2" />
+    <source type="hydro" amount="22" percent-of-all="0.1" percent-of-renewables="0.4" />
+    <source type="wind" amount="1584" percent-of-all="7.2" percent-of-renewables="29.7" />
+    <source type="biomass" amount="4" percent-of-all="0.02" percent-of-renewables="0.1" />
+    <source type="solar" amount="3719" percent-of-all="16.9" percent-of-renewables="69.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Kazakhstan">
+    <totals all-sources="115055" all-renewables="12656" renewable-percent="11" />
+    <source type="hydro" amount="9204" percent-of-all="8" percent-of-renewables="72.7" />
+    <source type="wind" amount="1726" percent-of-all="1.5" percent-of-renewables="13.6" />
+    <source type="biomass" amount="35" percent-of-all="0.03" percent-of-renewables="0.3" />
+    <source type="solar" amount="1611" percent-of-all="1.4" percent-of-renewables="12.7" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Kenya">
+    <totals all-sources="10968" all-renewables="9663" renewable-percent="88.1" />
+    <source type="hydro" amount="3784" percent-of-all="34.5" percent-of-renewables="39.2" />
+    <source type="wind" amount="88" percent-of-all="0.8" percent-of-renewables="0.9" />
+    <source type="biomass" amount="197" percent-of-all="1.8" percent-of-renewables="2" />
+    <source type="solar" amount="428" percent-of-all="3.9" percent-of-renewables="4.4" />
+    <source type="geothermal" amount="5188" percent-of-all="47.3" percent-of-renewables="53.7" />
+  </country>
+  <country name="Kiribati">
+    <totals all-sources="30" all-renewables="5" renewable-percent="16.7" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="5" percent-of-all="16.4" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Kosovo">
+    <totals all-sources="6859" all-renewables="439" renewable-percent="6.4" />
+    <source type="hydro" amount="295" percent-of-all="4.3" percent-of-renewables="67.2" />
+    <source type="wind" amount="123" percent-of-all="1.8" percent-of-renewables="28" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="14" percent-of-all="0.2" percent-of-renewables="3.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Kuwait">
+    <totals all-sources="71333" all-renewables="214" renewable-percent="0.3" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="71" percent-of-all="0.1" percent-of-renewables="33.2" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="143" percent-of-all="0.2" percent-of-renewables="66.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Kyrgyzstan">
+    <totals all-sources="15137" all-renewables="12957" renewable-percent="85.6" />
+    <source type="hydro" amount="12957" percent-of-all="85.6" percent-of-renewables="100" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Laos">
+    <totals all-sources="41020" all-renewables="28427" renewable-percent="69.3" />
+    <source type="hydro" amount="28345" percent-of-all="69.1" percent-of-renewables="99.7" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="41" percent-of-all="0.1" percent-of-renewables="0.1" />
+    <source type="solar" amount="41" percent-of-all="0.1" percent-of-renewables="0.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Latvia">
+    <totals all-sources="5846" all-renewables="3718" renewable-percent="63.6" />
+    <source type="hydro" amount="2707" percent-of-all="46.3" percent-of-renewables="72.8" />
+    <source type="wind" amount="140" percent-of-all="2.4" percent-of-renewables="3.8" />
+    <source type="biomass" amount="859" percent-of-all="14.7" percent-of-renewables="23.1" />
+    <source type="solar" amount="6" percent-of-all="0.1" percent-of-renewables="0.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Lebanon">
+    <totals all-sources="14943" all-renewables="523" renewable-percent="3.5" />
+    <source type="hydro" amount="374" percent-of-all="2.5" percent-of-renewables="71.5" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="30" percent-of-all="0.2" percent-of-renewables="5.7" />
+    <source type="solar" amount="105" percent-of-all="0.7" percent-of-renewables="20.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Lesotho">
+    <totals all-sources="533" all-renewables="532" renewable-percent="99.8" />
+    <source type="hydro" amount="531" percent-of-all="99.6" percent-of-renewables="99.8" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="1" percent-of-all="0.1" percent-of-renewables="0.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Liberia">
+    <totals all-sources="230" all-renewables="132" renewable-percent="57.4" />
+    <source type="hydro" amount="128" percent-of-all="55.7" percent-of-renewables="97" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0.1" percent-of-renewables="0" />
+    <source type="solar" amount="4" percent-of-all="1.6" percent-of-renewables="3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Libya">
+    <totals all-sources="40000" all-renewables="8" renewable-percent="0" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="8" percent-of-all="0.02" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Lithuania">
+    <totals all-sources="5079" all-renewables="3332" renewable-percent="65.6" />
+    <source type="hydro" amount="1092" percent-of-all="21.5" percent-of-renewables="32.8" />
+    <source type="wind" amount="1361" percent-of-all="26.8" percent-of-renewables="40.8" />
+    <source type="biomass" amount="543" percent-of-all="10.7" percent-of-renewables="16.3" />
+    <source type="solar" amount="193" percent-of-all="3.8" percent-of-renewables="5.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Luxembourg">
+    <totals all-sources="2211" all-renewables="1968" renewable-percent="89" />
+    <source type="hydro" amount="1086" percent-of-all="49.1" percent-of-renewables="55.2" />
+    <source type="wind" amount="314" percent-of-all="14.2" percent-of-renewables="16" />
+    <source type="biomass" amount="347" percent-of-all="15.7" percent-of-renewables="17.6" />
+    <source type="solar" amount="179" percent-of-all="8.1" percent-of-renewables="9.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Madagascar">
+    <totals all-sources="2002" all-renewables="857" renewable-percent="42.8" />
+    <source type="hydro" amount="801" percent-of-all="40" percent-of-renewables="93.5" />
+    <source type="wind" amount="0" percent-of-all="0.02" percent-of-renewables="0" />
+    <source type="biomass" amount="1" percent-of-all="0.03" percent-of-renewables="0.1" />
+    <source type="solar" amount="56" percent-of-all="2.8" percent-of-renewables="6.5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Malawi">
+    <totals all-sources="2333" all-renewables="1869" renewable-percent="80.1" />
+    <source type="hydro" amount="1691" percent-of-all="72.5" percent-of-renewables="90.5" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="49" percent-of-all="2.1" percent-of-renewables="2.6" />
+    <source type="solar" amount="128" percent-of-all="5.5" percent-of-renewables="6.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Malaysia">
+    <totals all-sources="171893" all-renewables="30597" renewable-percent="17.8" />
+    <source type="hydro" amount="27331" percent-of-all="15.9" percent-of-renewables="89.3" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="2922" percent-of-all="1.7" percent-of-renewables="9.5" />
+    <source type="solar" amount="516" percent-of-all="0.3" percent-of-renewables="1.7" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Maldives">
+    <totals all-sources="845" all-renewables="49" renewable-percent="5.8" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="3" percent-of-all="0.3" percent-of-renewables="6.1" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="46" percent-of-all="5.5" percent-of-renewables="93.9" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Mali">
+    <totals all-sources="3010" all-renewables="1875" renewable-percent="62.3" />
+    <source type="hydro" amount="1704" percent-of-all="56.6" percent-of-renewables="90.9" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="78" percent-of-all="2.6" percent-of-renewables="4.2" />
+    <source type="solar" amount="93" percent-of-all="3.1" percent-of-renewables="5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Malta">
+    <totals all-sources="2210" all-renewables="263" renewable-percent="11.9" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="7" percent-of-all="0.3" percent-of-renewables="2.7" />
+    <source type="solar" amount="256" percent-of-all="11.6" percent-of-renewables="97.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Marshall Islands">
+    <totals all-sources="83" all-renewables="2" renewable-percent="2.4" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0.02" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="2" percent-of-all="2.4" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Martinique">
+    <totals all-sources="1512" all-renewables="393" renewable-percent="26" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="48" percent-of-all="3.2" percent-of-renewables="12.2" />
+    <source type="biomass" amount="248" percent-of-all="16.4" percent-of-renewables="63.1" />
+    <source type="solar" amount="91" percent-of-all="6" percent-of-renewables="23.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Mauritania">
+    <totals all-sources="1397" all-renewables="271" renewable-percent="19.4" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="131" percent-of-all="9.4" percent-of-renewables="48.3" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="140" percent-of-all="10" percent-of-renewables="51.7" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Mauritius">
+    <totals all-sources="3005" all-renewables="649" renewable-percent="21.6" />
+    <source type="hydro" amount="108" percent-of-all="3.6" percent-of-renewables="16.6" />
+    <source type="wind" amount="15" percent-of-all="0.5" percent-of-renewables="2.3" />
+    <source type="biomass" amount="370" percent-of-all="12.3" percent-of-renewables="57" />
+    <source type="solar" amount="156" percent-of-all="5.2" percent-of-renewables="24" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Mayotte">
+    <totals all-sources="364" all-renewables="44" renewable-percent="12.1" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="44" percent-of-all="12.1" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Mexico">
+    <totals all-sources="388161" all-renewables="81902" renewable-percent="21.1" />
+    <source type="hydro" amount="34546" percent-of-all="8.9" percent-of-renewables="42.2" />
+    <source type="wind" amount="20961" percent-of-all="5.4" percent-of-renewables="25.6" />
+    <source type="biomass" amount="1553" percent-of-all="0.4" percent-of-renewables="1.9" />
+    <source type="solar" amount="20184" percent-of-all="5.2" percent-of-renewables="24.6" />
+    <source type="geothermal" amount="4270" percent-of-all="1.1" percent-of-renewables="5.2" />
+  </country>
+  <country name="Micronesia">
+    <totals all-sources="82" all-renewables="4" renewable-percent="4.9" />
+    <source type="hydro" amount="1" percent-of-all="1.4" percent-of-renewables="25" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="3" percent-of-all="3.5" percent-of-renewables="75" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Moldova">
+    <totals all-sources="4558" all-renewables="433" renewable-percent="9.5" />
+    <source type="hydro" amount="310" percent-of-all="6.8" percent-of-renewables="71.6" />
+    <source type="wind" amount="77" percent-of-all="1.7" percent-of-renewables="17.8" />
+    <source type="biomass" amount="32" percent-of-all="0.7" percent-of-renewables="7.4" />
+    <source type="solar" amount="9" percent-of-all="0.2" percent-of-renewables="2.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Mongolia">
+    <totals all-sources="7903" all-renewables="814" renewable-percent="10.3" />
+    <source type="hydro" amount="87" percent-of-all="1.1" percent-of-renewables="10.7" />
+    <source type="wind" amount="561" percent-of-all="7.1" percent-of-renewables="68.9" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="166" percent-of-all="2.1" percent-of-renewables="20.4" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Montenegro">
+    <totals all-sources="3775" all-renewables="2333" renewable-percent="61.8" />
+    <source type="hydro" amount="2008" percent-of-all="53.2" percent-of-renewables="86.1" />
+    <source type="wind" amount="321" percent-of-all="8.5" percent-of-renewables="13.8" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="4" percent-of-all="0.1" percent-of-renewables="0.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Montserrat">
+    <totals all-sources="19" all-renewables="2" renewable-percent="10.5" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="2" percent-of-all="10.3" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Morocco">
+    <totals all-sources="41317" all-renewables="8222" renewable-percent="19.9" />
+    <source type="hydro" amount="1198" percent-of-all="2.9" percent-of-renewables="14.6" />
+    <source type="wind" amount="5123" percent-of-all="12.4" percent-of-renewables="62.3" />
+    <source type="biomass" amount="41" percent-of-all="0.1" percent-of-renewables="0.5" />
+    <source type="solar" amount="1859" percent-of-all="4.5" percent-of-renewables="22.6" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Mozambique">
+    <totals all-sources="18465" all-renewables="15603" renewable-percent="84.5" />
+    <source type="hydro" amount="15474" percent-of-all="83.8" percent-of-renewables="99.2" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="55" percent-of-all="0.3" percent-of-renewables="0.4" />
+    <source type="solar" amount="74" percent-of-all="0.4" percent-of-renewables="0.5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Myanmar">
+    <totals all-sources="26366" all-renewables="12234" renewable-percent="46.4" />
+    <source type="hydro" amount="11891" percent-of-all="45.1" percent-of-renewables="97.2" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="264" percent-of-all="1" percent-of-renewables="2.2" />
+    <source type="solar" amount="79" percent-of-all="0.3" percent-of-renewables="0.6" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Namibia">
+    <totals all-sources="1470" all-renewables="1333" renewable-percent="90.7" />
+    <source type="hydro" amount="875" percent-of-all="59.5" percent-of-renewables="65.6" />
+    <source type="wind" amount="22" percent-of-all="1.5" percent-of-renewables="1.7" />
+    <source type="biomass" amount="0" percent-of-all="0.01" percent-of-renewables="0" />
+    <source type="solar" amount="437" percent-of-all="29.7" percent-of-renewables="32.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Nauru">
+    <totals all-sources="51" all-renewables="5" renewable-percent="9.8" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="5" percent-of-all="9.8" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Nepal">
+    <totals all-sources="8107" all-renewables="8107" renewable-percent="100" />
+    <source type="hydro" amount="8002" percent-of-all="98.7" percent-of-renewables="98.7" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="8" percent-of-all="0.1" percent-of-renewables="0.1" />
+    <source type="solar" amount="97" percent-of-all="1.2" percent-of-renewables="1.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Netherlands">
+    <totals all-sources="122272" all-renewables="40472" renewable-percent="33.1" />
+    <source type="hydro" amount="122" percent-of-all="0.1" percent-of-renewables="0.3" />
+    <source type="wind" amount="17974" percent-of-all="14.7" percent-of-renewables="44.4" />
+    <source type="biomass" amount="8681" percent-of-all="7.1" percent-of-renewables="21.4" />
+    <source type="solar" amount="11494" percent-of-all="9.4" percent-of-renewables="28.4" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="New Caledonia">
+    <totals all-sources="2907" all-renewables="654" renewable-percent="22.5" />
+    <source type="hydro" amount="424" percent-of-all="14.6" percent-of-renewables="64.8" />
+    <source type="wind" amount="41" percent-of-all="1.4" percent-of-renewables="6.3" />
+    <source type="biomass" amount="1" percent-of-all="0.02" percent-of-renewables="0.2" />
+    <source type="solar" amount="186" percent-of-all="6.4" percent-of-renewables="28.4" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="New Zealand">
+    <totals all-sources="44630" all-renewables="36329" renewable-percent="81.4" />
+    <source type="hydro" amount="24234" percent-of-all="54.3" percent-of-renewables="66.7" />
+    <source type="wind" amount="2633" percent-of-all="5.9" percent-of-renewables="7.2" />
+    <source type="biomass" amount="803" percent-of-all="1.8" percent-of-renewables="2.2" />
+    <source type="solar" amount="223" percent-of-all="0.5" percent-of-renewables="0.6" />
+    <source type="geothermal" amount="8435" percent-of-all="18.9" percent-of-renewables="23.2" />
+  </country>
+  <country name="Nicaragua">
+    <totals all-sources="4225" all-renewables="2928" renewable-percent="69.3" />
+    <source type="hydro" amount="600" percent-of-all="14.2" percent-of-renewables="20.5" />
+    <source type="wind" amount="655" percent-of-all="15.5" percent-of-renewables="22.4" />
+    <source type="biomass" amount="913" percent-of-all="21.6" percent-of-renewables="31.2" />
+    <source type="solar" amount="25" percent-of-all="0.6" percent-of-renewables="0.9" />
+    <source type="geothermal" amount="735" percent-of-all="17.4" percent-of-renewables="25.1" />
+  </country>
+  <country name="Niger">
+    <totals all-sources="568" all-renewables="46" renewable-percent="8.1" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="46" percent-of-all="8.1" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Nigeria">
+    <totals all-sources="36830" all-renewables="9318" renewable-percent="25.3" />
+    <source type="hydro" amount="9171" percent-of-all="24.9" percent-of-renewables="98.4" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="74" percent-of-all="0.2" percent-of-renewables="0.8" />
+    <source type="solar" amount="110" percent-of-all="0.3" percent-of-renewables="1.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Niue">
+    <totals all-sources="4" all-renewables="0.5" renewable-percent="12.5" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="1" percent-of-all="13.9" percent-of-renewables="200" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="North Korea">
+    <totals all-sources="25582" all-renewables="16168" renewable-percent="63.2" />
+    <source type="hydro" amount="16117" percent-of-all="63" percent-of-renewables="99.7" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="77" percent-of-all="0.3" percent-of-renewables="0.5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="North Macedonia">
+    <totals all-sources="5580" all-renewables="1713" renewable-percent="30.7" />
+    <source type="hydro" amount="1451" percent-of-all="26" percent-of-renewables="84.7" />
+    <source type="wind" amount="106" percent-of-all="1.9" percent-of-renewables="6.2" />
+    <source type="biomass" amount="56" percent-of-all="1" percent-of-renewables="3.3" />
+    <source type="solar" amount="106" percent-of-all="1.9" percent-of-renewables="6.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Norway">
+    <totals all-sources="157928" all-renewables="156507" renewable-percent="99.1" />
+    <source type="hydro" amount="144346" percent-of-all="91.4" percent-of-renewables="92.2" />
+    <source type="wind" amount="11845" percent-of-all="7.5" percent-of-renewables="7.6" />
+    <source type="biomass" amount="32" percent-of-all="0.02" percent-of-renewables="0" />
+    <source type="solar" amount="158" percent-of-all="0.1" percent-of-renewables="0.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Oman">
+    <totals all-sources="42211" all-renewables="802" renewable-percent="1.9" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="127" percent-of-all="0.3" percent-of-renewables="15.8" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="675" percent-of-all="1.6" percent-of-renewables="84.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Pakistan">
+    <totals all-sources="151621" all-renewables="45183" renewable-percent="29.8" />
+    <source type="hydro" amount="37450" percent-of-all="24.7" percent-of-renewables="82.9" />
+    <source type="wind" amount="3487" percent-of-all="2.3" percent-of-renewables="7.7" />
+    <source type="biomass" amount="3032" percent-of-all="2" percent-of-renewables="6.7" />
+    <source type="solar" amount="1213" percent-of-all="0.8" percent-of-renewables="2.7" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Palau">
+    <totals all-sources="87" all-renewables="4" renewable-percent="4.6" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="4" percent-of-all="4.6" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Palestine">
+    <totals all-sources="914" all-renewables="224" renewable-percent="24.5" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0.03" percent-of-renewables="0" />
+    <source type="solar" amount="223" percent-of-all="24.4" percent-of-renewables="99.6" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Panama">
+    <totals all-sources="11747" all-renewables="9597" renewable-percent="81.7" />
+    <source type="hydro" amount="8152" percent-of-all="69.4" percent-of-renewables="84.9" />
+    <source type="wind" amount="529" percent-of-all="4.5" percent-of-renewables="5.5" />
+    <source type="biomass" amount="258" percent-of-all="2.2" percent-of-renewables="2.7" />
+    <source type="solar" amount="658" percent-of-all="5.6" percent-of-renewables="6.9" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Papua New Guinea">
+    <totals all-sources="2863" all-renewables="1145" renewable-percent="40" />
+    <source type="hydro" amount="1011" percent-of-all="35.3" percent-of-renewables="88.3" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="31" percent-of-all="1.1" percent-of-renewables="2.7" />
+    <source type="solar" amount="6" percent-of-all="0.2" percent-of-renewables="0.5" />
+    <source type="geothermal" amount="97" percent-of-all="3.4" percent-of-renewables="8.5" />
+  </country>
+  <country name="Paraguay">
+    <totals all-sources="40848" all-renewables="40848" renewable-percent="100" />
+    <source type="hydro" amount="40562" percent-of-all="99.3" percent-of-renewables="99.3" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="286" percent-of-all="0.7" percent-of-renewables="0.7" />
+    <source type="solar" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Peru">
+    <totals all-sources="57055" all-renewables="35203" renewable-percent="61.7" />
+    <source type="hydro" amount="31894" percent-of-all="55.9" percent-of-renewables="90.6" />
+    <source type="wind" amount="1826" percent-of-all="3.2" percent-of-renewables="5.2" />
+    <source type="biomass" amount="571" percent-of-all="1" percent-of-renewables="1.6" />
+    <source type="solar" amount="856" percent-of-all="1.5" percent-of-renewables="2.4" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Philippines">
+    <totals all-sources="109195" all-renewables="24023" renewable-percent="22" />
+    <source type="hydro" amount="9282" percent-of-all="8.5" percent-of-renewables="38.6" />
+    <source type="wind" amount="1310" percent-of-all="1.2" percent-of-renewables="5.5" />
+    <source type="biomass" amount="1310" percent-of-all="1.2" percent-of-renewables="5.5" />
+    <source type="solar" amount="1529" percent-of-all="1.4" percent-of-renewables="6.4" />
+    <source type="geothermal" amount="10701" percent-of-all="9.8" percent-of-renewables="44.5" />
+  </country>
+  <country name="Poland">
+    <totals all-sources="179223" all-renewables="31364" renewable-percent="17.5" />
+    <source type="hydro" amount="3047" percent-of-all="1.7" percent-of-renewables="9.7" />
+    <source type="wind" amount="16130" percent-of-all="9" percent-of-renewables="51.4" />
+    <source type="biomass" amount="7707" percent-of-all="4.3" percent-of-renewables="24.6" />
+    <source type="solar" amount="3943" percent-of-all="2.2" percent-of-renewables="12.6" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Portugal">
+    <totals all-sources="50985" all-renewables="33089" renewable-percent="64.9" />
+    <source type="hydro" amount="13460" percent-of-all="26.4" percent-of-renewables="40.7" />
+    <source type="wind" amount="13205" percent-of-all="25.9" percent-of-renewables="39.9" />
+    <source type="biomass" amount="3671" percent-of-all="7.2" percent-of-renewables="11.1" />
+    <source type="solar" amount="2243" percent-of-all="4.4" percent-of-renewables="6.8" />
+    <source type="geothermal" amount="204" percent-of-all="0.4" percent-of-renewables="0.6" />
+  </country>
+  <country name="Puerto Rico">
+    <totals all-sources="19522" all-renewables="898" renewable-percent="4.6" />
+    <source type="hydro" amount="39" percent-of-all="0.2" percent-of-renewables="4.3" />
+    <source type="wind" amount="156" percent-of-all="0.8" percent-of-renewables="17.4" />
+    <source type="biomass" amount="20" percent-of-all="0.1" percent-of-renewables="2.2" />
+    <source type="solar" amount="683" percent-of-all="3.5" percent-of-renewables="76.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Qatar">
+    <totals all-sources="47667" all-renewables="143" renewable-percent="0.3" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="48" percent-of-all="0.1" percent-of-renewables="33.6" />
+    <source type="solar" amount="10" percent-of-all="0.02" percent-of-renewables="7" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Réunion">
+    <totals all-sources="3092" all-renewables="872" renewable-percent="28.2" />
+    <source type="hydro" amount="359" percent-of-all="11.6" percent-of-renewables="41.2" />
+    <source type="wind" amount="3" percent-of-all="0.1" percent-of-renewables="0.3" />
+    <source type="biomass" amount="241" percent-of-all="7.8" percent-of-renewables="27.6" />
+    <source type="solar" amount="269" percent-of-all="8.7" percent-of-renewables="30.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Romania">
+    <totals all-sources="59414" all-renewables="26677" renewable-percent="44.9" />
+    <source type="hydro" amount="17705" percent-of-all="29.8" percent-of-renewables="66.4" />
+    <source type="wind" amount="6595" percent-of-all="11.1" percent-of-renewables="24.7" />
+    <source type="biomass" amount="654" percent-of-all="1.1" percent-of-renewables="2.5" />
+    <source type="solar" amount="1723" percent-of-all="2.9" percent-of-renewables="6.5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Russia">
+    <totals all-sources="1088627" all-renewables="222080" renewable-percent="20.4" />
+    <source type="hydro" amount="216637" percent-of-all="19.9" percent-of-renewables="97.5" />
+    <source type="wind" amount="3266" percent-of-all="0.3" percent-of-renewables="1.5" />
+    <source type="biomass" amount="435" percent-of-all="0.04" percent-of-renewables="0.2" />
+    <source type="solar" amount="1089" percent-of-all="0.1" percent-of-renewables="0.5" />
+    <source type="geothermal" amount="435" percent-of-all="0.04" percent-of-renewables="0.2" />
+  </country>
+  <country name="Rwanda">
+    <totals all-sources="1022" all-renewables="595" renewable-percent="58.2" />
+    <source type="hydro" amount="557" percent-of-all="54.5" percent-of-renewables="93.6" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="2" percent-of-all="0.2" percent-of-renewables="0.3" />
+    <source type="solar" amount="36" percent-of-all="3.5" percent-of-renewables="6.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Saint Barthélemy">
+    <totals all-sources="70" all-renewables="0.07" renewable-percent="0.1" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="0" percent-of-all="0.1" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Saint Kitts and Nevis">
+    <totals all-sources="222" all-renewables="10" renewable-percent="4.5" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="5" percent-of-all="2.4" percent-of-renewables="50" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="5" percent-of-all="2.1" percent-of-renewables="50" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Saint Lucia">
+    <totals all-sources="400" all-renewables="10" renewable-percent="2.5" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="3" percent-of-all="0.7" percent-of-renewables="30" />
+    <source type="solar" amount="8" percent-of-all="1.9" percent-of-renewables="80" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Saint Martin">
+    <totals all-sources="188" all-renewables="1.5" renewable-percent="0.8" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="2" percent-of-all="0.8" percent-of-renewables="133.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Saint Pierre and Miquelon">
+    <totals all-sources="0" all-renewables="0" renewable-percent="0" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Saint Vincent and the Grenadines">
+    <totals all-sources="147" all-renewables="22" renewable-percent="15" />
+    <source type="hydro" amount="20" percent-of-all="13.4" percent-of-renewables="90.9" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="2" percent-of-all="1.6" percent-of-renewables="9.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Samoa">
+    <totals all-sources="163" all-renewables="80" renewable-percent="49.1" />
+    <source type="hydro" amount="47" percent-of-all="28.8" percent-of-renewables="58.8" />
+    <source type="wind" amount="0" percent-of-all="0.1" percent-of-renewables="0" />
+    <source type="biomass" amount="10" percent-of-all="6.1" percent-of-renewables="12.5" />
+    <source type="solar" amount="23" percent-of-all="14.1" percent-of-renewables="28.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="São Tomé and Príncipe">
+    <totals all-sources="98" all-renewables="6" renewable-percent="6.1" />
+    <source type="hydro" amount="6" percent-of-all="5.9" percent-of-renewables="100" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="0" percent-of-all="0.2" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Saudi Arabia">
+    <totals all-sources="267000" all-renewables="267" renewable-percent="0.1" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="267" percent-of-all="0.1" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Senegal">
+    <totals all-sources="4077" all-renewables="848" renewable-percent="20.8" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="400" percent-of-all="9.8" percent-of-renewables="47.2" />
+    <source type="biomass" amount="65" percent-of-all="1.6" percent-of-renewables="7.7" />
+    <source type="solar" amount="379" percent-of-all="9.3" percent-of-renewables="44.7" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Serbia">
+    <totals all-sources="38324" all-renewables="13375" renewable-percent="34.9" />
+    <source type="hydro" amount="11995" percent-of-all="31.3" percent-of-renewables="89.7" />
+    <source type="wind" amount="1073" percent-of-all="2.8" percent-of-renewables="8" />
+    <source type="biomass" amount="230" percent-of-all="0.6" percent-of-renewables="1.7" />
+    <source type="solar" amount="77" percent-of-all="0.2" percent-of-renewables="0.6" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Seychelles">
+    <totals all-sources="444" all-renewables="20" renewable-percent="4.5" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="5" percent-of-all="1.1" percent-of-renewables="25" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="15" percent-of-all="3.4" percent-of-renewables="75" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Sierra Leone">
+    <totals all-sources="324" all-renewables="244" renewable-percent="75.3" />
+    <source type="hydro" amount="228" percent-of-all="70.5" percent-of-renewables="93.4" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="9" percent-of-all="2.9" percent-of-renewables="3.7" />
+    <source type="solar" amount="6" percent-of-all="1.9" percent-of-renewables="2.5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Singapore">
+    <totals all-sources="55293" all-renewables="2267" renewable-percent="4.1" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="442" percent-of-all="0.8" percent-of-renewables="19.5" />
+    <source type="solar" amount="498" percent-of-all="0.9" percent-of-renewables="22" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Sint Maarten">
+    <totals all-sources="0" all-renewables="0" renewable-percent="0" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Slovakia">
+    <totals all-sources="29966" all-renewables="7072" renewable-percent="23.6" />
+    <source type="hydro" amount="4555" percent-of-all="15.2" percent-of-renewables="64.4" />
+    <source type="wind" amount="6" percent-of-all="0.02" percent-of-renewables="0.1" />
+    <source type="biomass" amount="1798" percent-of-all="6" percent-of-renewables="25.4" />
+    <source type="solar" amount="659" percent-of-all="2.2" percent-of-renewables="9.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Slovenia">
+    <totals all-sources="15881" all-renewables="5733" renewable-percent="36.1" />
+    <source type="hydro" amount="5003" percent-of-all="31.5" percent-of-renewables="87.3" />
+    <source type="wind" amount="6" percent-of-all="0.04" percent-of-renewables="0.1" />
+    <source type="biomass" amount="270" percent-of-all="1.7" percent-of-renewables="4.7" />
+    <source type="solar" amount="461" percent-of-all="2.9" percent-of-renewables="8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Solomon Islands">
+    <totals all-sources="106" all-renewables="7" renewable-percent="6.6" />
+    <source type="hydro" amount="1" percent-of-all="0.9" percent-of-renewables="14.3" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="3" percent-of-all="2.7" percent-of-renewables="42.9" />
+    <source type="solar" amount="3" percent-of-all="3" percent-of-renewables="42.9" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Somalia">
+    <totals all-sources="384" all-renewables="43" renewable-percent="11.2" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="6" percent-of-all="1.6" percent-of-renewables="14" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="37" percent-of-all="9.6" percent-of-renewables="86" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="South Africa">
+    <totals all-sources="213284" all-renewables="15783" renewable-percent="7.4" />
+    <source type="hydro" amount="6612" percent-of-all="3.1" percent-of-renewables="41.9" />
+    <source type="wind" amount="213" percent-of-all="0.1" percent-of-renewables="1.3" />
+    <source type="biomass" amount="427" percent-of-all="0.2" percent-of-renewables="2.7" />
+    <source type="solar" amount="8531" percent-of-all="4" percent-of-renewables="54.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="South Georgia and the South Sandwich Islands">
+    <totals all-sources="1" all-renewables="0.8" renewable-percent="80" />
+    <source type="hydro" amount="1" percent-of-all="98.7" percent-of-renewables="125" />
+    <source type="wind" amount="0" percent-of-all="1.3" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="South Korea">
+    <totals all-sources="616045" all-renewables="41275" renewable-percent="6.7" />
+    <source type="hydro" amount="6776" percent-of-all="1.1" percent-of-renewables="16.4" />
+    <source type="wind" amount="3080" percent-of-all="0.5" percent-of-renewables="7.5" />
+    <source type="biomass" amount="7393" percent-of-all="1.2" percent-of-renewables="17.9" />
+    <source type="solar" amount="23410" percent-of-all="3.8" percent-of-renewables="56.7" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="South Sudan">
+    <totals all-sources="667" all-renewables="2" renewable-percent="0.3" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="2" percent-of-all="0.3" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Spain">
+    <totals all-sources="274400" all-renewables="128968" renewable-percent="47" />
+    <source type="hydro" amount="32928" percent-of-all="12" percent-of-renewables="25.5" />
+    <source type="wind" amount="62014" percent-of-all="22.6" percent-of-renewables="48.1" />
+    <source type="biomass" amount="6037" percent-of-all="2.2" percent-of-renewables="4.7" />
+    <source type="solar" amount="27166" percent-of-all="9.9" percent-of-renewables="21.1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Sri Lanka">
+    <totals all-sources="16758" all-renewables="8580" renewable-percent="51.2" />
+    <source type="hydro" amount="7206" percent-of-all="43" percent-of-renewables="84" />
+    <source type="wind" amount="637" percent-of-all="3.8" percent-of-renewables="7.4" />
+    <source type="biomass" amount="168" percent-of-all="1" percent-of-renewables="2" />
+    <source type="solar" amount="553" percent-of-all="3.3" percent-of-renewables="6.4" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Sudan">
+    <totals all-sources="16768" all-renewables="10195" renewable-percent="60.8" />
+    <source type="hydro" amount="10061" percent-of-all="60" percent-of-renewables="98.7" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="101" percent-of-all="0.6" percent-of-renewables="1" />
+    <source type="solar" amount="34" percent-of-all="0.2" percent-of-renewables="0.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Suriname">
+    <totals all-sources="1607" all-renewables="866" renewable-percent="53.9" />
+    <source type="hydro" amount="847" percent-of-all="52.7" percent-of-renewables="97.8" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="6" percent-of-all="0.4" percent-of-renewables="0.7" />
+    <source type="solar" amount="13" percent-of-all="0.8" percent-of-renewables="1.5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Sweden">
+    <totals all-sources="171777" all-renewables="115778" renewable-percent="67.4" />
+    <source type="hydro" amount="73864" percent-of-all="43" percent-of-renewables="63.8" />
+    <source type="wind" amount="27313" percent-of-all="15.9" percent-of-renewables="23.6" />
+    <source type="biomass" amount="11337" percent-of-all="6.6" percent-of-renewables="9.8" />
+    <source type="solar" amount="1546" percent-of-all="0.9" percent-of-renewables="1.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Switzerland">
+    <totals all-sources="66004" all-renewables="44949" renewable-percent="68.1" />
+    <source type="hydro" amount="39866" percent-of-all="60.4" percent-of-renewables="88.7" />
+    <source type="wind" amount="132" percent-of-all="0.2" percent-of-renewables="0.3" />
+    <source type="biomass" amount="990" percent-of-all="1.5" percent-of-renewables="2.2" />
+    <source type="solar" amount="2838" percent-of-all="4.3" percent-of-renewables="6.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Syria">
+    <totals all-sources="25667" all-renewables="847" renewable-percent="3.3" />
+    <source type="hydro" amount="744" percent-of-all="2.9" percent-of-renewables="87.8" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="26" percent-of-all="0.1" percent-of-renewables="3.1" />
+    <source type="solar" amount="51" percent-of-all="0.2" percent-of-renewables="6" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Taiwan">
+    <totals all-sources="289262" all-renewables="18802" renewable-percent="6.5" />
+    <source type="hydro" amount="6653" percent-of-all="2.3" percent-of-renewables="35.4" />
+    <source type="wind" amount="2314" percent-of-all="0.8" percent-of-renewables="12.3" />
+    <source type="biomass" amount="289" percent-of-all="0.1" percent-of-renewables="1.5" />
+    <source type="solar" amount="7810" percent-of-all="2.7" percent-of-renewables="41.5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Tajikistan">
+    <totals all-sources="20849" all-renewables="19348" renewable-percent="92.8" />
+    <source type="hydro" amount="19348" percent-of-all="92.8" percent-of-renewables="100" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Tanzania">
+    <totals all-sources="7960" all-renewables="3407" renewable-percent="42.8" />
+    <source type="hydro" amount="3216" percent-of-all="40.4" percent-of-renewables="94.4" />
+    <source type="wind" amount="8" percent-of-all="0.1" percent-of-renewables="0.2" />
+    <source type="biomass" amount="159" percent-of-all="2" percent-of-renewables="4.7" />
+    <source type="solar" amount="24" percent-of-all="0.3" percent-of-renewables="0.7" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Thailand">
+    <totals all-sources="186668" all-renewables="35467" renewable-percent="19" />
+    <source type="hydro" amount="4853" percent-of-all="2.6" percent-of-renewables="13.7" />
+    <source type="wind" amount="3547" percent-of-all="1.9" percent-of-renewables="10" />
+    <source type="biomass" amount="20907" percent-of-all="11.2" percent-of-renewables="58.9" />
+    <source type="solar" amount="5040" percent-of-all="2.7" percent-of-renewables="14.2" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Togo">
+    <totals all-sources="763" all-renewables="158" renewable-percent="20.7" />
+    <source type="hydro" amount="85" percent-of-all="11.2" percent-of-renewables="53.8" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="72" percent-of-all="9.5" percent-of-renewables="45.6" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Tokelau">
+    <totals all-sources="1.31" all-renewables="1.2" renewable-percent="91.7" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="1" percent-of-all="91.7" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Tonga">
+    <totals all-sources="70" all-renewables="10" renewable-percent="14.3" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="3" percent-of-all="3.6" percent-of-renewables="30" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="7" percent-of-all="10.6" percent-of-renewables="70" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Trinidad and Tobago">
+    <totals all-sources="6000" all-renewables="6" renewable-percent="0.1" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="6" percent-of-all="0.1" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Tunisia">
+    <totals all-sources="21276" all-renewables="617" renewable-percent="2.9" />
+    <source type="hydro" amount="21" percent-of-all="0.1" percent-of-renewables="3.4" />
+    <source type="wind" amount="426" percent-of-all="2" percent-of-renewables="69" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="170" percent-of-all="0.8" percent-of-renewables="27.6" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Turkey">
+    <totals all-sources="334901" all-renewables="118555" renewable-percent="35.4" />
+    <source type="hydro" amount="55928" percent-of-all="16.7" percent-of-renewables="47.2" />
+    <source type="wind" amount="31481" percent-of-all="9.4" percent-of-renewables="26.6" />
+    <source type="biomass" amount="6028" percent-of-all="1.8" percent-of-renewables="5.1" />
+    <source type="solar" amount="14066" percent-of-all="4.2" percent-of-renewables="11.9" />
+    <source type="geothermal" amount="10717" percent-of-all="3.2" percent-of-renewables="9" />
+  </country>
+  <country name="Turkmenistan">
+    <totals all-sources="30000" all-renewables="3" renewable-percent="0" />
+    <source type="hydro" amount="3" percent-of-all="0.01" percent-of-renewables="100" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Turks and Caicos Islands">
+    <totals all-sources="267" all-renewables="4" renewable-percent="1.5" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="4" percent-of-all="1.5" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Tuvalu">
+    <totals all-sources="13" all-renewables="2" renewable-percent="15.4" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="2" percent-of-all="15.8" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Uganda">
+    <totals all-sources="4856" all-renewables="4749" renewable-percent="97.8" />
+    <source type="hydro" amount="4283" percent-of-all="88.2" percent-of-renewables="90.2" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="330" percent-of-all="6.8" percent-of-renewables="6.9" />
+    <source type="solar" amount="141" percent-of-all="2.9" percent-of-renewables="3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Ukraine">
+    <totals all-sources="149378" all-renewables="18971" renewable-percent="12.7" />
+    <source type="hydro" amount="7469" percent-of-all="5" percent-of-renewables="39.4" />
+    <source type="wind" amount="3436" percent-of-all="2.3" percent-of-renewables="18.1" />
+    <source type="biomass" amount="747" percent-of-all="0.5" percent-of-renewables="3.9" />
+    <source type="solar" amount="7170" percent-of-all="4.8" percent-of-renewables="37.8" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="United Arab Emirates">
+    <totals all-sources="149095" all-renewables="6262" renewable-percent="4.2" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="6262" percent-of-all="4.2" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="United Kingdom">
+    <totals all-sources="307109" all-renewables="124072" renewable-percent="40.4" />
+    <source type="hydro" amount="7371" percent-of-all="2.4" percent-of-renewables="5.9" />
+    <source type="wind" amount="64493" percent-of-all="21" percent-of-renewables="52" />
+    <source type="biomass" amount="35318" percent-of-all="11.5" percent-of-renewables="28.5" />
+    <source type="solar" amount="11977" percent-of-all="3.9" percent-of-renewables="9.7" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="United States">
+    <totals all-sources="4368926" all-renewables="886892" renewable-percent="20.3" />
+    <source type="hydro" amount="275242" percent-of-all="6.3" percent-of-renewables="31" />
+    <source type="wind" amount="384465" percent-of-all="8.8" percent-of-renewables="43.3" />
+    <source type="biomass" amount="52427" percent-of-all="1.2" percent-of-renewables="5.9" />
+    <source type="solar" amount="152912" percent-of-all="3.5" percent-of-renewables="17.2" />
+    <source type="geothermal" amount="17476" percent-of-all="0.4" percent-of-renewables="2" />
+  </country>
+  <country name="Uruguay">
+    <totals all-sources="15967" all-renewables="13492" renewable-percent="84.5" />
+    <source type="hydro" amount="5269" percent-of-all="33" percent-of-renewables="39.1" />
+    <source type="wind" amount="4998" percent-of-all="31.3" percent-of-renewables="37" />
+    <source type="biomass" amount="2746" percent-of-all="17.2" percent-of-renewables="20.4" />
+    <source type="solar" amount="479" percent-of-all="3" percent-of-renewables="3.6" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="US Virgin Islands">
+    <totals all-sources="680" all-renewables="17" renewable-percent="2.5" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0.04" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="17" percent-of-all="2.5" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Uzbekistan">
+    <totals all-sources="65584" all-renewables="5050" renewable-percent="7.7" />
+    <source type="hydro" amount="5050" percent-of-all="7.7" percent-of-renewables="100" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="66" percent-of-all="0.1" percent-of-renewables="1.3" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Vanuatu">
+    <totals all-sources="79" all-renewables="20" renewable-percent="25.3" />
+    <source type="hydro" amount="8" percent-of-all="10.7" percent-of-renewables="40" />
+    <source type="wind" amount="4" percent-of-all="5.2" percent-of-renewables="20" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="7" percent-of-all="9.2" percent-of-renewables="35" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Venezuela">
+    <totals all-sources="74363" all-renewables="62614" renewable-percent="84.2" />
+    <source type="hydro" amount="62539" percent-of-all="84.1" percent-of-renewables="99.9" />
+    <source type="wind" amount="74" percent-of-all="0.1" percent-of-renewables="0.1" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="7" percent-of-all="0.01" percent-of-renewables="0" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Vietnam">
+    <totals all-sources="243764" all-renewables="104331" renewable-percent="42.8" />
+    <source type="hydro" amount="75811" percent-of-all="31.1" percent-of-renewables="72.7" />
+    <source type="wind" amount="2438" percent-of-all="1" percent-of-renewables="2.3" />
+    <source type="biomass" amount="244" percent-of-all="0.1" percent-of-renewables="0.2" />
+    <source type="solar" amount="25595" percent-of-all="10.5" percent-of-renewables="24.5" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="The World">
+    <totals all-sources="28411004" all-renewables="7983492" renewable-percent="28.1" />
+    <source type="hydro" amount="4403706" percent-of-all="15.5" percent-of-renewables="55.2" />
+    <source type="wind" amount="1846715" percent-of-all="6.5" percent-of-renewables="23.1" />
+    <source type="biomass" amount="539809" percent-of-all="1.9" percent-of-renewables="6.8" />
+    <source type="solar" amount="1022796" percent-of-all="3.6" percent-of-renewables="12.8" />
+    <source type="geothermal" amount="85233" percent-of-all="0.3" percent-of-renewables="1.1" />
+  </country>
+  <country name="Yemen">
+    <totals all-sources="2941" all-renewables="497" renewable-percent="16.9" />
+    <source type="hydro" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="solar" amount="497" percent-of-all="16.9" percent-of-renewables="100" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Zambia">
+    <totals all-sources="17728" all-renewables="16310" renewable-percent="92" />
+    <source type="hydro" amount="16079" percent-of-all="90.7" percent-of-renewables="98.6" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="71" percent-of-all="0.4" percent-of-renewables="0.4" />
+    <source type="solar" amount="160" percent-of-all="0.9" percent-of-renewables="1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+  <country name="Zimbabwe">
+    <totals all-sources="8719" all-renewables="6217" renewable-percent="71.3" />
+    <source type="hydro" amount="6007" percent-of-all="68.9" percent-of-renewables="96.6" />
+    <source type="wind" amount="0" percent-of-all="0" percent-of-renewables="0" />
+    <source type="biomass" amount="140" percent-of-all="1.6" percent-of-renewables="2.3" />
+    <source type="solar" amount="61" percent-of-all="0.7" percent-of-renewables="1" />
+    <source type="geothermal" amount="0" percent-of-all="0" percent-of-renewables="0" />
+  </country>
+</renewable-electricity>

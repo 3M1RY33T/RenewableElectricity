@@ -1,0 +1,14 @@
+C:\Users\yigit\OneDrive\Belgeler\3138\YYProject2\bin\Debug\net8.0\YYProject2.exe
+C:\Users\yigit\OneDrive\Belgeler\3138\YYProject2\bin\Debug\net8.0\YYProject2.deps.json
+C:\Users\yigit\OneDrive\Belgeler\3138\YYProject2\bin\Debug\net8.0\YYProject2.runtimeconfig.json
+C:\Users\yigit\OneDrive\Belgeler\3138\YYProject2\bin\Debug\net8.0\YYProject2.dll
+C:\Users\yigit\OneDrive\Belgeler\3138\YYProject2\bin\Debug\net8.0\YYProject2.pdb
+C:\Users\yigit\OneDrive\Belgeler\3138\YYProject2\obj\Debug\net8.0\YYProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit\OneDrive\Belgeler\3138\YYProject2\obj\Debug\net8.0\YYProject2.AssemblyInfoInputs.cache
+C:\Users\yigit\OneDrive\Belgeler\3138\YYProject2\obj\Debug\net8.0\YYProject2.AssemblyInfo.cs
+C:\Users\yigit\OneDrive\Belgeler\3138\YYProject2\obj\Debug\net8.0\YYProject2.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Belgeler\3138\YYProject2\obj\Debug\net8.0\YYProject2.dll
+C:\Users\yigit\OneDrive\Belgeler\3138\YYProject2\obj\Debug\net8.0\refint\YYProject2.dll
+C:\Users\yigit\OneDrive\Belgeler\3138\YYProject2\obj\Debug\net8.0\YYProject2.pdb
+C:\Users\yigit\OneDrive\Belgeler\3138\YYProject2\obj\Debug\net8.0\YYProject2.genruntimeconfig.cache
+C:\Users\yigit\OneDrive\Belgeler\3138\YYProject2\obj\Debug\net8.0\ref\YYProject2.dll

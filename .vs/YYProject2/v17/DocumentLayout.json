@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Renewable Electricity Project (Summer 2024, C# \u0026 XML)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60D70AD0-0F23-4B06-89DF-BF778382D866}|YYProject2.csproj|c:\\users\\yigit\\onedrive\\masa\u00FCst\u00FC\\projects\\renewable electricity project (summer 2024, c# \u0026 xml)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D70AD0-0F23-4B06-89DF-BF778382D866}|YYProject2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D70AD0-0F23-4B06-89DF-BF778382D866}|YYProject2.csproj|c:\\users\\yigit\\onedrive\\masa\u00FCst\u00FC\\projects\\renewable electricity project (summer 2024, c# \u0026 xml)\\report-settings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{60D70AD0-0F23-4B06-89DF-BF778382D866}|YYProject2.csproj|solutionrelative:report-settings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D70AD0-0F23-4B06-89DF-BF778382D866}|YYProject2.csproj|c:\\users\\yigit\\onedrive\\masa\u00FCst\u00FC\\projects\\renewable electricity project (summer 2024, c# \u0026 xml)\\renewable-electricity.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{60D70AD0-0F23-4B06-89DF-BF778382D866}|YYProject2.csproj|solutionrelative:renewable-electricity.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1042,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "report-settings.xml",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Renewable Electricity Project (Summer 2024, C# \u0026 XML)\\report-settings.xml",
+              "RelativeDocumentMoniker": "report-settings.xml",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Renewable Electricity Project (Summer 2024, C# \u0026 XML)\\report-settings.xml",
+              "RelativeToolTip": "report-settings.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-20T22:05:10.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "renewable-electricity.xml",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Renewable Electricity Project (Summer 2024, C# \u0026 XML)\\renewable-electricity.xml",
+              "RelativeDocumentMoniker": "renewable-electricity.xml",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Renewable Electricity Project (Summer 2024, C# \u0026 XML)\\renewable-electricity.xml",
+              "RelativeToolTip": "renewable-electricity.xml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-01T16:07:13.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Renewable Electricity Project (Summer 2024, C# \u0026 XML)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yigit\\OneDrive\\Masa\u00FCst\u00FC\\Projects\\Renewable Electricity Project (Summer 2024, C# \u0026 XML)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAwwP4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:02:03.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
